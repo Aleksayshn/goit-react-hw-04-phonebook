@@ -1,0 +1,22 @@
+[
+    {
+        "id": "id-1",
+        "name": "Alice Johnson",
+        "number": "555-1234"
+    },
+    {
+        "id": "id-2",
+        "name": "Bob Smith",
+        "number": "555-5678"
+    },
+    {
+        "id": "id-3",
+        "name": "Charlie Brown",
+        "number": "555-9012"
+    },
+    {
+        "id": "id-4",
+        "name": "David Lee",
+        "number": "555-3456"
+    }
+]
